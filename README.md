@@ -6,3 +6,9 @@ this project is mainly for people who want to make revivals and frontends for Yo
 
 ## is this ready?
 at this moment no however feel free to contribute.
+
+## build instructions
+```
+npm install --save-dev
+npm run build
+```
