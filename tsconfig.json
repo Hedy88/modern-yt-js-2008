@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "lib": [
+        "ES5",
+        "DOM"
+      ],
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["src/**/*"]
+}
